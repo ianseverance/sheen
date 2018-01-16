@@ -1,0 +1,28 @@
+{
+  "name": "sheen",
+  "version": "0.0.1",
+  "description": "Light-weight module to write CSS-in-JS",
+  "author": "Ian Severance <hi@ianseverance.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianseverance/sheen.git"
+  },
+  "files": [
+    "dist",
+    "lib",
+    "src"
+  ],
+  "keywords": [
+    "css",
+    "css-in-js",
+    "sheen"
+  ],
+  "bugs": {
+    "url": "https://github.com/ianseverance/sheen/issues"
+  },
+  "homepage": "https://github.com/ianseverance/sheen#readme",
+  "devDependencies": {}
+}
